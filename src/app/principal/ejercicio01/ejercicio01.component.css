@@ -1,0 +1,29 @@
+.hola{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(211, 236, 183);
+    width: 30%;
+    margin-left: 500px;
+    border-radius: 5px;
+    color: rgb(13, 11, 11);
+}
+.title{
+  font-size: 25px;
+  color:rgb(16, 3, 3);
+  font-weight: 500;
+  margin-top: 50px;
+}
+.input-group{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: 50px;
+}
+.json-container{
+  width: 20%;
+  margin-left: 500px;
+}
